@@ -37,7 +37,7 @@ const Projects = () => {
     description: 'Personal portfolio website with animations, responsive design, and modern UI built using React and Tailwind.',
     tech: ['React', 'Tailwind', 'Framer Motion'],
     github: 'https://github.com/divyaguled202',
-    demo: '#',
+    demo: 'https://divya-web-dev.netlify.app/',
     image: portfolioImg
   }
 ];
