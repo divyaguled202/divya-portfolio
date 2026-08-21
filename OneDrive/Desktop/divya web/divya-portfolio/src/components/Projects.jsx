@@ -13,7 +13,7 @@ const Projects = () => {
     description: 'A responsive pet shop website with product listing, category filtering, and detailed product pages using local storage.',
     tech: ['HTML', 'CSS', 'JavaScript', 'Firebase'],
     github: 'https://github.com/divyaguled202',
-    demo: 'https://petwebsite-lake.vercel.app/',
+    demo: 'https://pawmart-store.netlify.app/',
     image: petShopImg
   },
   {
@@ -21,7 +21,7 @@ const Projects = () => {
     description: 'Frontend clone of Amazon with product layout, cart UI, and responsive design built using HTML, CSS, and JavaScript.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/divyaguled202',
-    demo: 'https://amazon-clone-gamma-blue.vercel.app/',
+    demo: 'https://divya-shoping-app.netlify.app/',
     image: amazonImg
   },
   {
@@ -29,7 +29,7 @@ const Projects = () => {
     description: 'A student platform for managing activities, communication, and campus workflows with a simple and user-friendly interface.',
     tech: ['React', 'Firebase', 'JavaScript'],
     github: 'https://github.com/divyaguled202',
-    demo: 'https://compus-connect-seven.vercel.app/',
+    demo: 'https://student-campusconnect.netlify.app/',
     image: campusImg
   },
   {
@@ -37,7 +37,7 @@ const Projects = () => {
     description: 'Personal portfolio website with animations, responsive design, and modern UI built using React and Tailwind.',
     tech: ['React', 'Tailwind', 'Framer Motion'],
     github: 'https://github.com/divyaguled202',
-    demo: 'https://divya-portfolio-six-beta.vercel.app/',
+    demo: 'https://divya-web-dev.netlify.app/',
     image: portfolioImg
   }
 ];
