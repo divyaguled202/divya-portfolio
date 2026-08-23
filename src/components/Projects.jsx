@@ -5,6 +5,7 @@ import { GiButterfly } from 'react-icons/gi';
 import petShopImg from '../assets/images/pet.png';
 import amazonImg from '../assets/images/amazon.png';
 import campusImg from '../assets/images/campusconnect.png';
+import gradeSystemImg from '../assets/images/grade.png';
 import  portfolioImg from '../assets/images/portfolio.png';
 const Projects = () => {
   const projects = [
@@ -33,6 +34,14 @@ const Projects = () => {
     image: campusImg
   },
   {
+  title: 'Student Grade System',
+  description: 'A modern dashboard to calculate student grades, track performance, and generate professional report cards.',
+  tech: ['React', 'TypeScript', 'Tailwind CSS'],
+  github: 'https://github.com/divyaguled202/student-grade-system',
+  demo: 'https://student-grade-system-pearl.vercel.app/',
+  image: gradeSystemImg
+},
+  {
     title: 'Portfolio Website',
     description: 'Personal portfolio website with animations, responsive design, and modern UI built using React and Tailwind.',
     tech: ['React', 'Tailwind', 'Framer Motion'],
@@ -40,6 +49,7 @@ const Projects = () => {
     demo: 'https://divya-portfolio-six-beta.vercel.app/',
     image: portfolioImg
   }
+  
 ];
 
   return (
