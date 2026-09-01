@@ -7,6 +7,7 @@ import amazonImg from '../assets/images/amazon.png';
 import campusImg from '../assets/images/campusconnect.png';
 import gradeSystemImg from '../assets/images/grade.png';
 import  portfolioImg from '../assets/images/portfolio.png';
+import tasknovaImg from '../assets/images/tasknova.png';
 const Projects = () => {
   const projects = [
   {
@@ -48,7 +49,15 @@ const Projects = () => {
     github: 'https://github.com/divyaguled202',
     demo: 'https://divya-portfolio-six-beta.vercel.app/',
     image: portfolioImg
-  }
+  },
+  {
+  title: 'TaskNova - SaaS Todo Platform',
+  description: 'A production-level Todo SaaS platform featuring authentication system, analytics dashboard, task filters (Today/Week/Completed), animated UI with Framer Motion, and immersive 3D background using Three.js.',
+  tech: ['React', 'Tailwind CSS', 'Framer Motion', 'Three.js', 'LocalStorage'],
+  github: 'https://github.com/divyaguled202/tasknova',
+  demo: 'https://tasknova-c8xhy6a3e-divya-8b20.vercel.app/https://tasknova-c8xhy6a3e-divya-8b20.vercel.app/',
+  image: tasknovaImg
+}
   
 ];
 
