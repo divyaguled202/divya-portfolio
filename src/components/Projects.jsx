@@ -55,7 +55,7 @@ const Projects = () => {
   description: 'A production-level Todo SaaS platform featuring authentication system, analytics dashboard, task filters (Today/Week/Completed), animated UI with Framer Motion, and immersive 3D background using Three.js.',
   tech: ['React', 'Tailwind CSS', 'Framer Motion', 'Three.js', 'LocalStorage'],
   github: 'https://github.com/divyaguled202/tasknova',
-  demo: 'https://tasknova-c8xhy6a3e-divya-8b20.vercel.app/https://tasknova-c8xhy6a3e-divya-8b20.vercel.app/',
+  demo: 'https://tasknova-ruddy.vercel.app/',
   image: tasknovaImg
 }
   
