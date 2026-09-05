@@ -23,7 +23,7 @@ const Projects = () => {
     description: 'Frontend clone of Amazon with product layout, cart UI, and responsive design built using HTML, CSS, and JavaScript.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/divyaguled202',
-    demo: 'https://amazon-clone-eta-plum.vercel.app/',
+    demo: 'https://amazon-clone-fnbxpxsup-divya-8b20.vercel.app/',
     image: amazonImg
   },
   {
