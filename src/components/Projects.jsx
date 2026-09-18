@@ -3,7 +3,6 @@ import { motion } from 'framer-motion';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 import { GiButterfly } from 'react-icons/gi';
 import petShopImg from '../assets/images/pet.png';
-import amazonImg from '../assets/images/amazon.png';
 import campusImg from '../assets/images/campusconnect.png';
 import gradeSystemImg from '../assets/images/grade.png';
 import  portfolioImg from '../assets/images/portfolio.png';
@@ -18,14 +17,7 @@ const Projects = () => {
     demo: 'https://petwebsite-lake.vercel.app/',
     image: petShopImg
   },
-  {
-    title: 'Amazon Clone',
-    description: 'Frontend clone of Amazon with product layout, cart UI, and responsive design built using HTML, CSS, and JavaScript.',
-    tech: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/divyaguled202',
-    demo: 'https://amazon-clone-blue-theta-83.vercel.app/',
-    image: amazonImg
-  },
+  
   {
      title: 'CampusConnect Platform',
     description: 'A student platform for managing activities, communication, and campus workflows with a simple and user-friendly interface.',
