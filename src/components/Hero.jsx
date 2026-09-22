@@ -67,7 +67,7 @@ const Hero = () => {
   const typingWords = ['Computer Science Student', 'Web Developer', 'Tech Enthusiast'];
 
   const handleDownloadCV = () => {
-    const cvUrl = 'https://drive.google.com/file/d/1cUFXeHGDgpOO-rgwQhAS32jAcgPnbq4q/view?usp=drivesdk';
+    const cvUrl = 'https://drive.google.com/file/d/1J5UC_GQDYfWn0dAsbeKOaoqn2EmvmNMe/view?usp=sharing';
     window.open(cvUrl, '_blank');
   };
 

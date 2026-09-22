@@ -8,9 +8,9 @@ const Education = () => {
     school: 'Sanjeevan Group of Institutions, Panhala',
     degree: 'B.E. in Computer Science Engineering',
     period: '2023 - 2027',
-    description: 'Currently pursuing Bachelor of Engineering in Computer Science Engineering with a CGPA of 7.14. Focused on web development, databases, and software development fundamentals.',
+    description: 'Currently pursuing Bachelor of Engineering in Computer Science Engineering with a CGPA of 7.54. Focused on web development, databases, and software development fundamentals.',
     achievements: [
-      'CGPA: 7.14',
+      'CGPA: 7.54',
       'Expected Graduation: July 2027',
       'Computer Science Engineering',
       'DBATU University'
